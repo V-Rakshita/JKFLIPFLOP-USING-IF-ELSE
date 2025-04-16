@@ -37,9 +37,9 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 ## **PROCEDURE**
 
-1.	Open Quartus and create a new project. Go to File -> New -> Verilog HDL File and type the program.
+1.	Open Quartus and go to File -> New Project Wizard to create a new project. 
 
-2.	Compile and run the program.
+2.	Then, Go to File -> New -> Verilog HDL File and type the program. Compile and run the program.
 
 3.	Then go to Tools -> NetList Viewers -> RTL Viewer and generate the RTL schematic and save the logic diagram.
 
